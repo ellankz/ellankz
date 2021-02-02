@@ -11,6 +11,7 @@
   - [Future Height](https://ellankz.github.io/future-height/) - tiny app to predict a kids height in near future (it actually tells the truth ⚡)
     - https://ellankz.github.io/future-height/
   - [Engligatorrr](https://engligatorrr.netlify.app/) - english learning game for kids
+    - repo https://github.com/ellankz/engligatorrr
   - [Gem Puzzle Game](https://gem-puzzle-ellankz.netlify.app/)
 
 ### Reach me
