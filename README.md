@@ -13,6 +13,7 @@
   - [Engligatorrr](https://engligatorrr.netlify.app/) - english learning game for kids
     - repo https://github.com/ellankz/engligatorrr
   - [Gem Puzzle Game](https://gem-puzzle-ellankz.netlify.app/)
+    - repo https://github.com/ellankz/gem-puzzle
 
 ### Reach me
   - in telegram @Ellankz
